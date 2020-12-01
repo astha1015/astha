@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/astha/static/css/main.c4bca24e.chunk.css",
+    "main.js": "/astha/static/js/main.349ed2b0.chunk.js",
+    "main.js.map": "/astha/static/js/main.349ed2b0.chunk.js.map",
+    "runtime-main.js": "/astha/static/js/runtime-main.97c96dc1.js",
+    "runtime-main.js.map": "/astha/static/js/runtime-main.97c96dc1.js.map",
+    "static/js/2.c191ab86.chunk.js": "/astha/static/js/2.c191ab86.chunk.js",
+    "static/js/2.c191ab86.chunk.js.map": "/astha/static/js/2.c191ab86.chunk.js.map",
+    "static/js/3.8cab2a81.chunk.js": "/astha/static/js/3.8cab2a81.chunk.js",
+    "static/js/3.8cab2a81.chunk.js.map": "/astha/static/js/3.8cab2a81.chunk.js.map",
+    "index.html": "/astha/index.html",
+    "static/css/main.c4bca24e.chunk.css.map": "/astha/static/css/main.c4bca24e.chunk.css.map",
+    "static/js/2.c191ab86.chunk.js.LICENSE.txt": "/astha/static/js/2.c191ab86.chunk.js.LICENSE.txt",
+    "static/media/igrss.71ca5780.png": "/astha/static/media/igrss.71ca5780.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97c96dc1.js",
+    "static/js/2.c191ab86.chunk.js",
+    "static/css/main.c4bca24e.chunk.css",
+    "static/js/main.349ed2b0.chunk.js"
+  ]
+}

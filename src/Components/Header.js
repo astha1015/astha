@@ -12,7 +12,7 @@ class Header extends React.Component{
                 <h1 className="text-3xl lg:w-3/5 sm:w-4/5 font-bold">{this.props.name} <br /></h1>
                 <Navigation/>
             </div>
-            <p className="text-center">Machine Learning | Data Science | Software Engineering </p>
+            <p className="text-center"> Software Engineering | Machine Learning | Data Science </p>
             </div>
             
                 
